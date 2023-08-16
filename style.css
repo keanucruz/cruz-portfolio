@@ -383,6 +383,12 @@ nav .fa-solid{
   .about-col-2{
     font-size: 14px;
   }
+  .work img{
+    margin-left: 3rem;
+  }
+  .layer{
+    margin-left: 2.5rem;
+  }
   .tab-links{
     font-size: 16px;
     margin-right:20px;
